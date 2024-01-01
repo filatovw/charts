@@ -2,7 +2,7 @@ apiVersion: v2
 name: geonode
 version: 0.4.1
 appVersion: 3.1.0
-description: Chart for GeoNode
+description: Chart for GeoNode.
 keywords:
   - GeoNode
   - GIS

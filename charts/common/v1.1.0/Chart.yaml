@@ -1,6 +1,6 @@
 apiVersion: v2
 name: common
-description: Common library for ops
+description: Common library for ops.
 
 # A chart can be either an 'application' or a 'library' chart.
 #

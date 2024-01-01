@@ -2,7 +2,7 @@ apiVersion: v2
 name: guacamole
 version: 0.1.1
 appVersion: 1.2.0
-description: Chart for guacamole
+description: Chart for guacamole.
 keywords:
   - Guacamole
   - Remote Desktop

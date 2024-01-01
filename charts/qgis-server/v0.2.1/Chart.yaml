@@ -2,7 +2,7 @@ apiVersion: v2
 name: qgis-server
 version: 0.2.1
 appVersion: "3.14"
-description: Chart for QGIS-Server
+description: Chart for QGIS-Server.
 keywords:
   - QGIS
   - QGIS Server

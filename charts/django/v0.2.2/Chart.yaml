@@ -2,7 +2,7 @@ apiVersion: v2
 name: django
 version: 0.2.2
 appVersion: "3.1"
-description: Generic chart for basic Django-based web app
+description: Generic chart for basic Django-based web app.
 keywords:
   - Django
   - Web
